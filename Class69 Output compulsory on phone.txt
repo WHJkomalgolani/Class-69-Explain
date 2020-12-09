@@ -1,0 +1,6 @@
+Search for sample barcode on google.
+Use any sample to test.
+
+Scan it via phone
+By clicking on blue button ,it will ask for camera permissions.
+Scan it will show that number in phone.
